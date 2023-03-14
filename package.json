@@ -1,0 +1,32 @@
+{
+  "name": "com.waykey.elcaptcha",
+  "version": "1.0.0",
+  "description": "Captcha algorithm for form validation and neural learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorFollador/elCaptcha.git"
+  },
+  "keywords": [
+    "captcha",
+    "neural",
+    "leraning"
+  ],
+  "author": "Igor D. Follador",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorFollador/elCaptcha/issues"
+  },
+  "homepage": "https://github.com/IgorFollador/elCaptcha#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
